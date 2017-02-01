@@ -1,0 +1,5 @@
+      
+# HTTP Server
+server:
+  address: 127.0.0.1
+  port: 4444   # HTTP (Tomcat) port
